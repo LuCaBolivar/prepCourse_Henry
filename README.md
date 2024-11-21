@@ -1,2 +1,1 @@
-# prepCourse_Henry
-Este es un repositorio de prueba
+Este proyecto es una pruba de como clonar un repositorio de git
